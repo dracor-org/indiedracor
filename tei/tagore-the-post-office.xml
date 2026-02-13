@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="insert_id" xml:lang="insert_lang">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="insert_id" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">The Post Office</title>
-        <author>Rabindranath Tagore</author>
+        <title>The Post Office</title>
+        <author>
+          <persName>
+            <forename>Rabindranath</forename>
+            <surname>Tagore</surname>
+          </persName>
+          <idno type="wikipedia">Q7241</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
-              Licence</ref>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">
+            CC0 1.0
           </licence>
         </availability>
       </publicationStmt>
