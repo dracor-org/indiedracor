@@ -1,6 +1,6 @@
-# newdracor
+# IndiEDraCor
 
-Starter repository for new DraCor corpora
+Indian English Drama Corpus
 
 This is a template repository you can use to start a new DraCor corpus. After
 creating a new repository you need to:
