@@ -1,0 +1,1080 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="insert_id" xml:lang="insert_lang">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">The Post Office</title>
+        <author>Rabindranath Tagore</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+              Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="madhav._great_heavens_what">
+            <persName>Madhav. Great heavens, what?</persName>
+          </person>
+          <person sex="MALE" xml:id="royalphysician._open_all_doors_and_windows">
+            <persName>RoyalPhysician. Open all doors and windows</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._that_would_have_been_splendid_but_no_one_ever_takes_me_away._they_all_want_me_to_stay_in_here">
+            <persName>Amal. That would have been splendid! But no one ever takes me away. They all want me to stay in here</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._i_am_off_to_my_workbut_darling_you_wont_go_out_will_you">
+            <persName>Madhav. I am off to my work—but, darling, you won't go out, will you?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._but_i_have_no_money">
+            <persName>Amal. But I have no money</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._see_that_far-away_hill_from_our_windowi_often_long_to_go_beyond_those_hills_and_right_away">
+            <persName>Amal. See that far-away hill from our window—I often long to go beyond those hills and right away</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._no_darling">
+            <persName>Madhav. No, darling</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._has_the_king_sent_me_a_letter">
+            <persName>Amal. Has the King sent me a letter?</persName>
+          </person>
+          <person sex="FEMALE" xml:id="headman._the_king_indeed_ha_ha">
+            <persName>Headman. The King indeed! Ha! ha</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._gracious_me_really_how_so">
+            <persName>Madhav. Gracious me, really, how so?</persName>
+          </person>
+          <person sex="MALE" xml:id="sudha._amal">
+            <persName>Sudha. Amal</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._how_can_i_buy_i_have_no_money">
+            <persName>Amal. How can I buy? I have no money</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._it_is_his_letter">
+            <persName>Gaffer. It is his letter</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._none_at_all_for_in_the_wind_and_in_the_sun">
+            <persName>Physician. None at all: for, "In the wind and in the sun—"</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._panch-mura_hills_shamli_river_i_wonder._i_may_have_seen_your_village._i_cant_think_when_though">
+            <persName>Amal. Panch-mura hills! Shamli river! I wonder. I may have seen your village. I can't think when though</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._will_you_have_some_curds">
+            <persName>Dairyman. Will you have some curds?</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._one_day_the_doctor_himself_may_take_you_there_by_the_hand">
+            <persName>Watchman. One day the doctor himself may take you there by the hand</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._say_whats_going_on_there_in_that_big_house">
+            <persName>Amal. Say, what's going on there in that big house?</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._have_you_seen_it_been_to_the_foot_of_those_hills">
+            <persName>Dairyman. Have you seen it? Been to the foot of those hills?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._thats_true_but_tell_me_how">
+            <persName>Madhav. That's true; but tell me how</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._one_greater_than_he_comes_and_lets_us_free">
+            <persName>Watchman. One greater than he comes and lets us free</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._poor_child_it_is_very_hard_to_keep_him_indoors_all_day_long">
+            <persName>Madhav. Poor child, it is very hard to keep him indoors all day long</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._wouldnt_that_be_jolly_then_i_should_go_farther">
+            <persName>Amal. Wouldn't that be jolly? Then I should go farther</persName>
+          </person>
+          <person sex="MALE" xml:id="doctor._bad_sign">
+            <persName>Doctor. Bad sign</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_feel_awfully_well">
+            <persName>Amal. I feel awfully well</persName>
+          </person>
+          <person sex="MALE" xml:id="herald._yes">
+            <persName>Herald. Yes</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._i_am_the_fakir">
+            <persName>Gaffer. I am the fakir</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._you_remember_how_my_wife_was_dying_to_adopt_a_child">
+            <persName>Madhav. You remember how my wife was dying to adopt a child?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._listen_to_that_see_what_will_you_see_what_is_there_so_much_to_see">
+            <persName>Madhav. Listen to that! See! What will you see, what is there so much to see?</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._curds_curds_good_nice_curds">
+            <persName>Dairyman. Curds, curds, good nice curds</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._thats_right_child">
+            <persName>Dairyman. That's right, child</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._arent_they_really">
+            <persName>Amal. Aren't they really?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_feel_very_well">
+            <persName>Amal. I feel very well</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._wish_i_were_a_squirrelit_would_be_lovely._uncle_why_wont_you_let_me_go_about">
+            <persName>Amal. Wish I were a squirrel!—it would be lovely. Uncle, why won't you let me go about?</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._poor_thing_and_so_he_needs_me_all_the_more">
+            <persName>Gaffer. Poor thing: and so he needs me all the more</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._the_scriptures_have_it_bile_or_palsy_cold_or_gout_spring_all_alike.">
+            <persName>Physician. The scriptures have it: "Bile or palsy, cold or gout spring all alike."</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._no_they_dont_have_time_for_that_sort_of_nonsense._they_are_not_crazy_like_you">
+            <persName>Madhav. No, they don't have time for that sort of nonsense. They are not crazy like you</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._what_else_can_you_do_the_autumn_sun_and_the_damp_are_both_very_bad_for_the_little_fellowfor_the_scriptures_have_it">
+            <persName>Physician. What else can you do? The autumn sun and the damp are both very bad for the little fellow—for the scriptures have it</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._suppose_they_had_kidnapped_you">
+            <persName>Madhav. Suppose they had kidnapped you?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._your_village_is_it_very_far">
+            <persName>Amal. Your village? Is it very far?</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._the_king_sends_tiny_notes_to_little_boys">
+            <persName>Watchman. The King sends tiny notes to little boys</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._no_how_can_they_early_and_late_they_toil_and_moil_at_their_books_and_theyve_eyes_for_nothing_else">
+            <persName>Madhav. No, how can they? Early and late they toil and moil at their books, and they've eyes for nothing else</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._but_then_you_wont_want_me_to_be_learned_will_you_uncle">
+            <persName>Amal. But then you won't want me to be learned, will you, Uncle?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._very_well._but_mind_you_you_arent_to_call_out_and_talk_to_strangers_again">
+            <persName>Madhav. Very well. But mind you, you aren't to call out and talk to strangers again</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._how_wonderful">
+            <persName>Dairyman. How wonderful</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._and_the_first_day_doctor_lets_me_go_out_you_are_going_to_take_me_to_your_village">
+            <persName>Amal. And the first day doctor lets me go out, you are going to take me to your village</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._dear_dear_why_should_you_sell_curds_no_you_will_read_big_books_and_be_learned">
+            <persName>Dairyman. Dear, dear! Why should you sell curds? No, you will read big books and be learned</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._well_im_jiggered_theres_gaffer_now">
+            <persName>Madhav. Well, I'm jiggered, there's Gaffer now</persName>
+          </person>
+          <person sex="MALE" xml:id="sudha._i_wont_forget_you._exit">
+            <persName>Sudha. I won't forget you. [Exit]</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._a_letter_for_me">
+            <persName>Amal. A letter for me?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._uncle_i_say_uncle">
+            <persName>Amal. Uncle, I say, Uncle</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._no_i_would_rather_go_about_and_see_everything_that_there_is">
+            <persName>Amal. No, I would rather go about and see everything that there is</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_cant_think_of_anything_just_now_but_ill_tell_you_later_on">
+            <persName>Amal. I can't think of anything just now; but I'll tell you later on</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._dear_dear_it_would_have_been_my_saving_if_i_could_have_been_learned">
+            <persName>Madhav. Dear, dear; it would have been my saving if I could have been learned</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._lowering_his_yoke-pole_whatever_are_you_doing_here_my_child">
+            <persName>Dairyman. [Lowering his yoke-pole] Whatever are you doing here, my child?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._uncle_do_you_think_it_is_meant_to_prevent_your_crossing_over_it_seems_to_me_because_the_earth_cant_speak_it_raises_its_hands_into_the_sky_and_beckons">
+            <persName>Amal. Uncle, do you think it is meant to prevent your crossing over? It seems to me because the earth can't speak it raises its hands into the sky and beckons</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._now_think_of_it_very_very_learned_people_are_all_like_you_they_are_never_out_of_doors">
+            <persName>Madhav. Now, think of it; very, very learned people are all like you; they are never out of doors</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._suppose_you_seek_and_dont_find._then">
+            <persName>Madhav. Suppose you seek and don't find. Then—</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._cant_i_go_near_the_window_to-day_uncle">
+            <persName>Amal. Can't I go near the window to-day, Uncle?</persName>
+          </person>
+          <person sex="MALE" xml:id="doctor._how_do_you_feel_to-day">
+            <persName>Doctor. How do you feel to-day?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._he_had_a_bamboo_staff_on_his_shoulder_with_a_small_bundle_at_the_top_and_a_brass_pot_in_his_left_hand_and_an_old_pair_of_shoes_on_he_was_making_for_those_hills_straight_across_that_meadow_there._i_called_out_to_him_and_asked_where_are_you_going_he_answered_i_dont_know_anywhere_i_asked_again_why_are_you_going_he_said_im_going_out_to_seek_work._say_uncle_have_you_to_seek_work">
+            <persName>Amal. He had a bamboo staff on his shoulder with a small bundle at the top, and a brass pot in his left hand, and an old pair of shoes on; he was making for those hills straight across that meadow there. I called out to him and asked, "Where are you going?" He answered, "I don't know, anywhere!" I asked again, "Why are you going?" He said, "I'm going out to seek work." Say, Uncle, have you to seek work?</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._i_have_already_mentioned_on_no_account_must_he_be_let_out_of_doors">
+            <persName>Physician. I have already mentioned, on no account must he be let out of doors</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._he_had_a_bamboo_staff_on_his_shoulder_with_a_small_bundle_at_the_top_and_a_brass_pot_in_his_left_hand_and_an_old_pair_of_shoes_on_he_was_making_for_those_hills_straight_across_that_meadow_there._i_called_out_to_him_and_asked_where_are_you_going_he_answered_i_dont_know_anywhere_i_asked_again_why_are_you_going_he_said_im_going_out_to_seek_work._say_uncle_have_you_to_seek_work_1">
+            <persName>Amal. He had a bamboo staff on his shoulder with a small bundle at the top, and a brass pot in his left hand, and an old pair of shoes on; he was making for those hills straight across that meadow there. I called out to him and asked, “Where are you going?” He answered, “I don't know, anywhere!” I asked again, “Why are you going?” He said, “I'm going out to seek work.” Say, Uncle, have you to seek work?</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._time_has_not_yet_come">
+            <persName>Watchman. Time has not yet come</persName>
+          </person>
+          <person sex="MALE" xml:id="headman._heres_your_letter_from_the_king_shows_blank_paper">
+            <persName>Headman. Here's your letter from the King! [Shows blank paper]</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._with_a_sigh_ah_i_am_so_stupid_i_dont_read_books">
+            <persName>Amal. [With a sigh] Ah, I am so stupid! I don't read books</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._indeed_how_so">
+            <persName>Gaffer. Indeed, how so?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._oh_how_lovely">
+            <persName>Amal. Oh, how lovely</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._please_dont_mock_me">
+            <persName>Amal. Please don't mock me</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_can_see_the_postman_coming">
+            <persName>Amal. I can see the postman coming</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._curdseller_i_say_curdseller">
+            <persName>Amal. Curdseller, I say, Curdseller</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._god_bless_my_soul_so_im_already_as_bad_as_autumn_wind_and_sun_eh_but_friend_i_know_something_too_of_the_game_of_keeping_them_indoors._when_my_days_work_is_over_i_am_coming_in_to_make_friends_with_this_child_of_yours._exit">
+            <persName>Gaffer. God bless my soul! So I'm already as bad as autumn wind and sun, eh! But, friend, I know something, too, of the game of keeping them indoors. When my day's work is over I am coming in to make friends with this child of yours. [Exit]</persName>
+          </person>
+          <person sex="MALE" xml:id="boys._were_off_to_play">
+            <persName>Boys. We're off to play</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._no_no_youll_make_me_happy_if_you_take_some._exit">
+            <persName>Dairyman. No, no! You'll make me happy if you take some. [Exit]</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_cannot_see_it">
+            <persName>Amal. I cannot see it</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._i_will_my_child_with_pleasure">
+            <persName>Dairyman. I will, my child, with pleasure</persName>
+          </person>
+          <person sex="MALE" xml:id="sudha._i_gather_flowers">
+            <persName>Sudha. I gather flowers</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._whose">
+            <persName>Amal. Whose?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._no_my_dear_no">
+            <persName>Madhav. No, my dear, no</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._do_you_know_yesterday_i_met_someone_quite_as_crazy_as_i_am">
+            <persName>Amal. Do you know, yesterday I met someone quite as crazy as I am</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._maynt_i_be_out_of_the_courtyard_at_all">
+            <persName>Amal. Mayn't I be out of the courtyard at all?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._hullo_is_that_you_amal">
+            <persName>Madhav. Hullo! Is that you, Amal?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_would_go_with_you_if_i_could">
+            <persName>Amal. I would go with you if I could</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._why_do_you_call_me_will_you_buy_some_curds">
+            <persName>Dairyman. Why do you call me? Will you buy some curds?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._of_course_dont_you_know">
+            <persName>Madhav. Of course, don't you know</persName>
+          </person>
+          <person sex="MALE" xml:id="boys._you_wont_want_them_back">
+            <persName>Boys. You won't want them back?</persName>
+          </person>
+          <person sex="MALE" xml:id="boys._how_jolly">
+            <persName>Boys. How jolly</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._you_wont_forget_me">
+            <persName>Amal. You won't forget me?</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._the_more_he_winces_the_surer_is_the_effect._thats_why_the_sage_chyabana_observes_in_medicine_as_in_good_advices_the_least_palatable_ones_are_the_truest._ah_well_i_must_be_trotting_now._exit">
+            <persName>Physician. The more he winces, the surer is the effect. That's why the sage Chyabana observes: "In medicine as in good advices, the least palatable ones are the truest." Ah, well! I must be trotting now. [Exit]</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._see_there_where_auntie_grinds_lentils_in_the_quern_the_squirrel_is_sitting_with_his_tail_up_and_with_his_wee_hands_hes_picking_up_the_broken_grains_of_lentils_and_crunching_them._cant_i_run_up_there">
+            <persName>Amal. See, there where Auntie grinds lentils in the quern, the squirrel is sitting with his tail up and with his wee hands he's picking up the broken grains of lentils and crunching them. Can't I run up there?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._no_no_uncle_i_beg_of_you_by_your_dear_feeti_dont_want_to_be_learned_i_wont">
+            <persName>Amal. No, no, Uncle; I beg of you by your dear feet—I don't want to be learned, I won't</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._no_i_wont._but_uncle_youll_let_me_be_in_this_room_by_the_roadside">
+            <persName>Amal. No, I won't. But, Uncle, you'll let me be in this room by the roadside</persName>
+          </person>
+          <person sex="MALE" xml:id="headman._ill_tell_the_king_about_you._exit">
+            <persName>Headman. I'll tell the King about you. [Exit]</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._on_the_second_watch">
+            <persName>Amal. On the second watch?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._what_a_thing_to_say_the_doctor_cant_know_and_he_reads_such_huge_books">
+            <persName>Madhav. What a thing to say! The doctor can't know and he reads such huge books</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._will_he_write_to_me">
+            <persName>Amal. Will he write to me?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._oh_get_along_dont_fling_your_scriptures_at_me_you_only_make_me_more_anxious_tell_me_what_i_can_do">
+            <persName>Madhav. Oh, get along, don't fling your scriptures at me; you only make me more anxious; tell me what I can do</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._what_a_boy_why_call_out_then_ugh_what_a_waste_of_time">
+            <persName>Dairyman. What a boy! Why call out then? Ugh! What a waste of time</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._will_you_tell_the_postman_its_amal_who_sits_by_the_window">
+            <persName>Amal. Will you tell the postman it's Amal who sits by the window?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._what_would_you_rather_be_then">
+            <persName>Madhav. What would you rather be then?</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._to_the_isle_of_parrots">
+            <persName>Gaffer. To the Isle of Parrots</persName>
+          </person>
+          <person sex="MALE" xml:id="sudha._tell_him_sudha_has_not_forgotten_him">
+            <persName>Sudha. Tell him Sudha has not forgotten him</persName>
+          </person>
+          <person sex="MALE" xml:id="sudha._be_good_and_sit_still._ill_come_back">
+            <persName>Sudha. Be good and sit still. I'll come back</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._how_lovely_ill_go_about_like_them_too_finding_things_to_do">
+            <persName>Amal. How lovely! I'll go about, like them too, finding things to do</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._no_i_never_want_to_be_learned">
+            <persName>Amal. No, I never want to be learned</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._i_see_i_think_you_had_better_be_getting_well_first_then">
+            <persName>Madhav. I see! I think you had better be getting well first; then—</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._dont_go._play_here">
+            <persName>Amal. Don't go. Play here</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._wont_you_sound_the_gong_watchman">
+            <persName>Amal. Won't you sound the gong, Watchman?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_fear_my_fakirll_pass">
+            <persName>Amal. I fear my fakir'll pass</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._whats_all_this_row">
+            <persName>Watchman. What's all this row?</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._but_you_arent_a_child_and_youve_no_child_in_the_house_why_worry_then">
+            <persName>Gaffer. But you aren't a child, and you've no child in the house; why worry then?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._never._but_i_seem_to_remember_having_seen_it">
+            <persName>Amal. Never. But I seem to remember having seen it</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._it_is_on_the_way">
+            <persName>Gaffer. It is on the way</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._the_doctor_says_all_the_organs_of_his_little_body_are_at_loggerheads_with_each_other_and_there_isnt_much_hope_for_his_life._there_is_only_one_way_to_save_him_and_that_is_to_keep_him_out_of_this_autumn_wind_and_sun._but_you_are_such_a_terror_what_with_this_game_of_yours_at_your_age_too_to_get_children_out_of_doors">
+            <persName>Madhav. The doctor says all the organs of his little body are at loggerheads with each other, and there isn't much hope for his life. There is only one way to save him and that is to keep him out of this autumn wind and sun. But you are such a terror! What with this game of yours at your age, too, to get children out of doors</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._if_theres_life_in_his_fate_then_he_will_live_long._but_what_the_medical_scriptures_say_it_seems">
+            <persName>Physician. If there's life in his fate, then he will live long. But what the medical scriptures say, it seems—</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._ah_well_and_where_did_you_pick_him_up">
+            <persName>Gaffer. Ah, well, and where did you pick him up?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._what_a_state_i_am_in_before_he_came_nothing_mattered_i_felt_so_free._but_now_that_he_has_come_goodness_knows_from_where_my_heart_is_filled_with_his_dear_self_and_my_home_will_be_no_home_to_me_when_he_leaves._doctor_do_you_think_he">
+            <persName>Madhav. What a state I am in! Before he came, nothing mattered; I felt so free. But now that he has come, goodness knows from where, my heart is filled with his dear self, and my home will be no home to me when he leaves. Doctor, do you think he—</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._why_why_i_wont_bite_you">
+            <persName>Gaffer. Why, why, I won't bite you</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._oh_you_silly_as_if_theres_nothing_more_to_be_done_but_just_get_up_to_the_top_of_that_hill_and_away">
+            <persName>Madhav. Oh, you silly! As if there's nothing more to be done but just get up to the top of that hill and away</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._what_do_you_do">
+            <persName>Amal. What do you do?</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._one_fine_day_there_may_be_a_letter_for_you">
+            <persName>Watchman. One fine day there may be a letter for you</persName>
+          </person>
+          <person sex="FEMALE" xml:id="gaffer._yes_but_thats_an_old_story_you_didnt_like_the_idea">
+            <persName>Gaffer. Yes, but that's an old story; you didn't like the idea</persName>
+          </person>
+          <person sex="FEMALE" xml:id="sudha._i_am_sudha">
+            <persName>Sudha. I am Sudha</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._he_is_the_son_of_a_man_who_was_a_brother_to_my_wife_by_village_ties._he_has_had_no_mother_since_infancy_and_now_the_other_day_he_lost_his_father_as_well">
+            <persName>Madhav. He is the son of a man who was a brother to my wife by village ties. He has had no mother since infancy; and now the other day he lost his father as well</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._where_have_you_been">
+            <persName>Amal. Where have you been?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._no_but_you_are_a_devil_to_send_children_off_their_heads">
+            <persName>Madhav. No, but you are a devil to send children off their heads</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._of_course_i_have_to._theres_many_about_looking_for_jobs">
+            <persName>Madhav. Of course I have to. There's many about looking for jobs</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._oh_but_i_have_brought_a_child_into_the_house">
+            <persName>Madhav. Oh, but I have brought a child into the house</persName>
+          </person>
+          <person sex="MALE" xml:id="headman._who_is_yelling_after_me">
+            <persName>Headman. Who is yelling after me?</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._from_our_village">
+            <persName>Dairyman. From our village</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._hes_asleep">
+            <persName>Physician. He's asleep</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._our_village_lies_on_the_river_shamli_at_the_foot_of_the_panch-mura_hills">
+            <persName>Dairyman. Our village lies on the river Shamli at the foot of the Panch-mura hills</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_wish_i_could_pick_flowers_for_you">
+            <persName>Amal. I wish I could pick flowers for you</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._with_me">
+            <persName>Dairyman. With me?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._yes_i_seem_to_feel_homesick_when_i_hear_you_call_from_far_down_the_road">
+            <persName>Amal. Yes, I seem to feel homesick when I hear you call from far down the road</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._but_i_love_to_talk_to_strangers">
+            <persName>Amal. But I love to talk to strangers</persName>
+          </person>
+          <person sex="MALE" xml:id="gaffer._so_thats_the_trouble_and_your_money_goes_all_for_him_and_feels_jolly_lucky_it_does_go_at_all">
+            <persName>Gaffer. So that's the trouble! and your money goes all for him and feels jolly lucky it does go at all</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._and_youll_teach_me_to_cry_curds_and_shoulder_the_yoke_like_you">
+            <persName>Amal. And you'll teach me to cry curds and shoulder the yoke like you?</persName>
+          </person>
+          <person sex="MALE" xml:id="dairyman._my_poor_child_whatever_has_happened_to_you">
+            <persName>Dairyman. My poor child, whatever has happened to you?</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._thats_our_new_post_office">
+            <persName>Watchman. That's our new Post Office</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._ask_a_gift_from_the_king">
+            <persName>Madhav. Ask a gift from the King</persName>
+          </person>
+          <person sex="MALE" xml:id="boys._well_come_again._exit">
+            <persName>Boys. We'll come again. [Exit]</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._formerly_earning_was_a_sort_of_passion_with_me_i_simply_couldnt_help_working_for_money._now_i_make_money_and_as_i_know_it_is_all_for_this_dear_boy_earning_becomes_a_joy_to_me">
+            <persName>Madhav. Formerly, earning was a sort of passion with me; I simply couldn't help working for money. Now, I make money and as I know it is all for this dear boy, earning becomes a joy to me</persName>
+          </person>
+          <person sex="MALE" xml:id="herald._our_sovereign_king_comes_to-night">
+            <persName>Herald. Our Sovereign King comes to-night</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._what_will_your_in_this_and_in_that_do_for_me_now_why_dont_you_let_them_alone_and_come_straight_to_the_point_whats_to_be_done_then_your_system_is_very_very_hard_for_the_poor_boy_and_he_is_so_quiet_too_with_all_his_pain_and_sickness._it_tears_my_heart_to_see_him_wince_as_he_takes_your_medicine">
+            <persName>Madhav. What will your "in this and in that" do for me now? Why don't you let them alone and come straight to the point? What's to be done then? Your system is very, very hard for the poor boy; and he is so quiet too with all his pain and sickness. It tears my heart to see him wince, as he takes your medicine</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._some_say_time_has_not_yet_come_and_some_say_time_has_gone_by">
+            <persName>Amal. Some say time has not yet come, and some say time has gone by</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._and_your_women_with_red_sarees_fill_their_pitchers_from_the_river_and_carry_them_on_their_heads">
+            <persName>Amal. And your women with red sarees fill their pitchers from the river and carry them on their heads</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._the_doctor_says_im_not_to_be_out_so_i_sit_here_all_day_long">
+            <persName>Amal. The doctor says I'm not to be out, so I sit here all day long</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_cant_tell._you_see_i_am_not_learned_so_i_dont_know_whats_the_matter_with_me._say_dairyman_where_do_you_come_from">
+            <persName>Amal. I can't tell. You see I am not learned, so I don't know what's the matter with me. Say, Dairyman, where do you come from?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._does_his_book-learning_tell_him_everything">
+            <persName>Amal. Does his book-learning tell him everything?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._never_mind_the_scriptures_please._eh_then_we_must_shut_the_poor_thing_up._is_there_no_other_method">
+            <persName>Madhav. Never mind the scriptures, please. Eh, then we must shut the poor thing up. Is there no other method?</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._when_will_this_great_doctor_come_for_me">
+            <persName>Amal. When will this great doctor come for me?</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._doctor_says_its_bad_for_you_to_be_out">
+            <persName>Madhav. Doctor says it's bad for you to be out</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._no">
+            <persName>Amal. No</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._you_know_brother_how_hard_all_this_getting_money_in_has_been._that_somebody_elses_child_would_sail_in_and_waste_all_this_money_earned_with_so_much_troubleoh_i_hated_the_idea._but_this_boy_clings_to_my_heart_in_such_a_queer_sort_of_way">
+            <persName>Madhav. You know, brother, how hard all this getting money in has been. That somebody else's child would sail in and waste all this money earned with so much trouble—Oh, I hated the idea. But this boy clings to my heart in such a queer sort of way—</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._curds_curds_good_nice_curdsfrom_the_dairy_village">
+            <persName>Amal. Curds, curds, good nice curds—from the dairy village—</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._i_shall_ask_him_to_make_me_his_postman">
+            <persName>Amal. I shall ask him to make me his postman</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._oh_god">
+            <persName>Madhav. Oh God</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._take_my_toys">
+            <persName>Amal. Take my toys</persName>
+          </person>
+          <person sex="MALE" xml:id="madhav._no_my_darling_no">
+            <persName>Madhav. No, my darling, no</persName>
+          </person>
+          <person sex="MALE" xml:id="amal._how_can_the_doctor_know">
+            <persName>Amal. How can the doctor know?</persName>
+          </person>
+          <person sex="MALE" xml:id="watchman._the_kings">
+            <persName>Watchman. The King's</persName>
+          </person>
+          <person sex="MALE" xml:id="physician._taking_snuff_the_patient_needs_the_most_scrupulous_care">
+            <persName>Physician. [Taking snuff] The patient needs the most scrupulous care</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2025-12-25">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2025">
+        <desc />
+      </event>
+      <event type="premiere" when="2025">
+        <desc />
+      </event>
+      <event type="written" when="2025">
+        <desc />
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT" />
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+      <castList>
+        <head>Dramatis Personae</head>
+        <castItem>MADHAV</castItem>
+        <castItem>AMAL, his adopted child</castItem>
+        <castItem>SUDHA, a little flower girl</castItem>
+        <castItem>THE DOCTOR</castItem>
+        <castItem>DAIRYMAN</castItem>
+        <castItem>WATCHMAN</castItem>
+        <castItem>GAFFER</castItem>
+        <castItem>VILLAGE HEADMAN, a bully</castItem>
+        <castItem>KING'S HERALD</castItem>
+        <castItem>ROYAL PHYSICIAN</castItem>
+        <castItem>
+        </castItem>
+        <castItem>
+        </castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Act 1</head>
+        <stage>[Madhav's House]</stage>
+        <sp who="#madhav._what_a_state_i_am_in_before_he_came_nothing_mattered_i_felt_so_free._but_now_that_he_has_come_goodness_knows_from_where_my_heart_is_filled_with_his_dear_self_and_my_home_will_be_no_home_to_me_when_he_leaves._doctor_do_you_think_he">
+          <speaker>Madhav</speaker>
+        <p>What a state I am in! Before he came, nothing mattered; I felt so free. But now that he has come, goodness knows from where, my heart is filled with his dear self, and my home will be no home to me when he leaves. Doctor, do you think he—</p></sp>
+        <sp who="#physician._if_theres_life_in_his_fate_then_he_will_live_long._but_what_the_medical_scriptures_say_it_seems">
+          <speaker>Physician</speaker>
+        <p>If there's life in his fate, then he will live long. But what the medical scriptures say, it seems—</p></sp>
+        <sp who="#madhav._great_heavens_what">
+          <speaker>Madhav</speaker>
+        <p>Great heavens, what?</p></sp>
+        <sp who="#physician._the_scriptures_have_it_bile_or_palsy_cold_or_gout_spring_all_alike.">
+          <speaker>Physician</speaker>
+        <p>The scriptures have it: "Bile or palsy, cold or gout spring all alike."</p></sp>
+        <sp who="#madhav._oh_get_along_dont_fling_your_scriptures_at_me_you_only_make_me_more_anxious_tell_me_what_i_can_do">
+          <speaker>Madhav</speaker>
+        <p>Oh, get along, don't fling your scriptures at me; you only make me more anxious; tell me what I can do.</p></sp>
+        <sp who="#physician._taking_snuff_the_patient_needs_the_most_scrupulous_care">
+          <speaker>Physician</speaker>
+        <p><stage>Taking snuff</stage> The patient needs the most scrupulous care.</p></sp>
+        <sp who="#madhav._thats_true_but_tell_me_how">
+          <speaker>Madhav</speaker>
+        <p>That's true; but tell me how.</p></sp>
+        <sp who="#physician._i_have_already_mentioned_on_no_account_must_he_be_let_out_of_doors">
+          <speaker>Physician</speaker>
+        <p>I have already mentioned, on no account must he be let out of doors.</p></sp>
+        <sp who="#madhav._poor_child_it_is_very_hard_to_keep_him_indoors_all_day_long">
+          <speaker>Madhav</speaker>
+        <p>Poor child, it is very hard to keep him indoors all day long.</p></sp>
+        <sp who="#physician._what_else_can_you_do_the_autumn_sun_and_the_damp_are_both_very_bad_for_the_little_fellowfor_the_scriptures_have_it">
+          <speaker>Physician</speaker>
+          <p>What else can you do? The autumn sun and the damp are both very bad for the little fellow—for the scriptures have it:</p><p>"In wheezing, swoon or in nervous fret,</p>
+          <p>In jaundice or leaden eyes—"</p>
+        </sp>
+        <sp who="#madhav._never_mind_the_scriptures_please._eh_then_we_must_shut_the_poor_thing_up._is_there_no_other_method">
+          <speaker>Madhav</speaker>
+        <p>Never mind the scriptures, please. Eh, then we must shut the poor thing up. Is there no other method?</p></sp>
+        <sp who="#physician._none_at_all_for_in_the_wind_and_in_the_sun">
+          <speaker>Physician</speaker>
+        <p>None at all: for, "In the wind and in the sun—"</p></sp>
+        <sp who="#madhav._what_will_your_in_this_and_in_that_do_for_me_now_why_dont_you_let_them_alone_and_come_straight_to_the_point_whats_to_be_done_then_your_system_is_very_very_hard_for_the_poor_boy_and_he_is_so_quiet_too_with_all_his_pain_and_sickness._it_tears_my_heart_to_see_him_wince_as_he_takes_your_medicine">
+          <speaker>Madhav</speaker>
+        <p>What will your "in this and in that" do for me now? Why don't you let them alone and come straight to the point? What's to be done then? Your system is very, very hard for the poor boy; and he is so quiet too with all his pain and sickness. It tears my heart to see him wince, as he takes your medicine.</p></sp>
+        <sp who="#physician._the_more_he_winces_the_surer_is_the_effect._thats_why_the_sage_chyabana_observes_in_medicine_as_in_good_advices_the_least_palatable_ones_are_the_truest._ah_well_i_must_be_trotting_now._exit">
+          <speaker>Physician</speaker>
+          <p>The more he winces, the surer is the effect. That's why the sage Chyabana observes: "In medicine as in good advices, the least palatable ones are the truest." Ah, well! I must be trotting now. <stage>Exit</stage></p><stage>Gaffer enters</stage>
+        </sp>
+        <sp who="#madhav._well_im_jiggered_theres_gaffer_now">
+          <speaker>Madhav</speaker>
+        <p>Well, I'm jiggered, there's Gaffer now.</p></sp>
+        <sp who="#gaffer._why_why_i_wont_bite_you">
+          <speaker>Gaffer</speaker>
+        <p>Why, why, I won't bite you.</p></sp>
+        <sp who="#madhav._no_but_you_are_a_devil_to_send_children_off_their_heads">
+          <speaker>Madhav</speaker>
+        <p>No, but you are a devil to send children off their heads.</p></sp>
+        <sp who="#gaffer._but_you_arent_a_child_and_youve_no_child_in_the_house_why_worry_then">
+          <speaker>Gaffer</speaker>
+        <p>But you aren't a child, and you've no child in the house; why worry then?</p></sp>
+        <sp who="#madhav._oh_but_i_have_brought_a_child_into_the_house">
+          <speaker>Madhav</speaker>
+        <p>Oh, but I have brought a child into the house.</p></sp>
+        <sp who="#gaffer._indeed_how_so">
+          <speaker>Gaffer</speaker>
+        <p>Indeed, how so?</p></sp>
+        <sp who="#madhav._you_remember_how_my_wife_was_dying_to_adopt_a_child">
+          <speaker>Madhav</speaker>
+        <p>You remember how my wife was dying to adopt a child?</p></sp>
+        <sp who="#gaffer._yes_but_thats_an_old_story_you_didnt_like_the_idea">
+          <speaker>Gaffer</speaker>
+        <p>Yes, but that's an old story; you didn't like the idea.</p></sp>
+        <sp who="#madhav._you_know_brother_how_hard_all_this_getting_money_in_has_been._that_somebody_elses_child_would_sail_in_and_waste_all_this_money_earned_with_so_much_troubleoh_i_hated_the_idea._but_this_boy_clings_to_my_heart_in_such_a_queer_sort_of_way">
+          <speaker>Madhav</speaker>
+        <p>You know, brother, how hard all this getting money in has been. That somebody else's child would sail in and waste all this money earned with so much trouble—Oh, I hated the idea. But this boy clings to my heart in such a queer sort of way—</p></sp>
+        <sp who="#gaffer._so_thats_the_trouble_and_your_money_goes_all_for_him_and_feels_jolly_lucky_it_does_go_at_all">
+          <speaker>Gaffer</speaker>
+        <p>So that's the trouble! and your money goes all for him and feels jolly lucky it does go at all.</p></sp>
+        <sp who="#madhav._formerly_earning_was_a_sort_of_passion_with_me_i_simply_couldnt_help_working_for_money._now_i_make_money_and_as_i_know_it_is_all_for_this_dear_boy_earning_becomes_a_joy_to_me">
+          <speaker>Madhav</speaker>
+        <p>Formerly, earning was a sort of passion with me; I simply couldn't help working for money. Now, I make money and as I know it is all for this dear boy, earning becomes a joy to me.</p></sp>
+        <sp who="#gaffer._ah_well_and_where_did_you_pick_him_up">
+          <speaker>Gaffer</speaker>
+        <p>Ah, well, and where did you pick him up?</p></sp>
+        <sp who="#madhav._he_is_the_son_of_a_man_who_was_a_brother_to_my_wife_by_village_ties._he_has_had_no_mother_since_infancy_and_now_the_other_day_he_lost_his_father_as_well">
+          <speaker>Madhav</speaker>
+        <p>He is the son of a man who was a brother to my wife by village ties. He has had no mother since infancy; and now the other day he lost his father as well.</p></sp>
+        <sp who="#gaffer._poor_thing_and_so_he_needs_me_all_the_more">
+          <speaker>Gaffer</speaker>
+        <p>Poor thing: and so he needs me all the more.</p></sp>
+        <sp who="#madhav._the_doctor_says_all_the_organs_of_his_little_body_are_at_loggerheads_with_each_other_and_there_isnt_much_hope_for_his_life._there_is_only_one_way_to_save_him_and_that_is_to_keep_him_out_of_this_autumn_wind_and_sun._but_you_are_such_a_terror_what_with_this_game_of_yours_at_your_age_too_to_get_children_out_of_doors">
+          <speaker>Madhav</speaker>
+        <p>The doctor says all the organs of his little body are at loggerheads with each other, and there isn't much hope for his life. There is only one way to save him and that is to keep him out of this autumn wind and sun. But you are such a terror! What with this game of yours at your age, too, to get children out of doors!</p></sp>
+        <sp who="#gaffer._god_bless_my_soul_so_im_already_as_bad_as_autumn_wind_and_sun_eh_but_friend_i_know_something_too_of_the_game_of_keeping_them_indoors._when_my_days_work_is_over_i_am_coming_in_to_make_friends_with_this_child_of_yours._exit">
+          <speaker>Gaffer</speaker>
+          <p>God bless my soul! So I'm already as bad as autumn wind and sun, eh! But, friend, I know something, too, of the game of keeping them indoors. When my day's work is over I am coming in to make friends with this child of yours. <stage>Exit</stage></p><stage>Amal enters</stage>
+        </sp>
+        <sp who="#amal._uncle_i_say_uncle">
+          <speaker>Amal</speaker>
+        <p>Uncle, I say, Uncle!</p></sp>
+        <sp who="#madhav._hullo_is_that_you_amal">
+          <speaker>Madhav</speaker>
+        <p>Hullo! Is that you, Amal?</p></sp>
+        <sp who="#amal._maynt_i_be_out_of_the_courtyard_at_all">
+          <speaker>Amal</speaker>
+        <p>Mayn't I be out of the courtyard at all?</p></sp>
+        <sp who="#madhav._no_my_dear_no">
+          <speaker>Madhav</speaker>
+        <p>No, my dear, no.</p></sp>
+        <sp who="#amal._see_there_where_auntie_grinds_lentils_in_the_quern_the_squirrel_is_sitting_with_his_tail_up_and_with_his_wee_hands_hes_picking_up_the_broken_grains_of_lentils_and_crunching_them._cant_i_run_up_there">
+          <speaker>Amal</speaker>
+        <p>See, there where Auntie grinds lentils in the quern, the squirrel is sitting with his tail up and with his wee hands he's picking up the broken grains of lentils and crunching them. Can't I run up there?</p></sp>
+        <sp who="#madhav._no_my_darling_no">
+          <speaker>Madhav</speaker>
+        <p>No, my darling, no.</p></sp>
+        <sp who="#amal._wish_i_were_a_squirrelit_would_be_lovely._uncle_why_wont_you_let_me_go_about">
+          <speaker>Amal</speaker>
+        <p>Wish I were a squirrel!—it would be lovely. Uncle, why won't you let me go about?</p></sp>
+        <sp who="#madhav._doctor_says_its_bad_for_you_to_be_out">
+          <speaker>Madhav</speaker>
+        <p>Doctor says it's bad for you to be out.</p></sp>
+        <sp who="#amal._how_can_the_doctor_know">
+          <speaker>Amal</speaker>
+        <p>How can the doctor know?</p></sp>
+        <sp who="#madhav._what_a_thing_to_say_the_doctor_cant_know_and_he_reads_such_huge_books">
+          <speaker>Madhav</speaker>
+        <p>What a thing to say! The doctor can't know and he reads such huge books!</p></sp>
+        <sp who="#amal._does_his_book-learning_tell_him_everything">
+          <speaker>Amal</speaker>
+        <p>Does his book-learning tell him everything?</p></sp>
+        <sp who="#madhav._of_course_dont_you_know">
+          <speaker>Madhav</speaker>
+        <p>Of course, don't you know!</p></sp>
+        <sp who="#amal._with_a_sigh_ah_i_am_so_stupid_i_dont_read_books">
+          <speaker>Amal</speaker>
+        <p><stage>With a sigh</stage> Ah, I am so stupid! I don't read books.</p></sp>
+        <sp who="#madhav._now_think_of_it_very_very_learned_people_are_all_like_you_they_are_never_out_of_doors">
+          <speaker>Madhav</speaker>
+        <p>Now, think of it; very, very learned people are all like you; they are never out of doors.</p></sp>
+        <sp who="#amal._arent_they_really">
+          <speaker>Amal</speaker>
+        <p>Aren't they really?</p></sp>
+        <sp who="#madhav._no_how_can_they_early_and_late_they_toil_and_moil_at_their_books_and_theyve_eyes_for_nothing_else">
+          <speaker>Madhav</speaker>
+        <p>No, how can they? Early and late they toil and moil at their books, and they've eyes for nothing else.</p></sp>
+        <sp who="#amal._no_no_uncle_i_beg_of_you_by_your_dear_feeti_dont_want_to_be_learned_i_wont">
+          <speaker>Amal</speaker>
+        <p>No, no, Uncle; I beg of you by your dear feet—I don't want to be learned, I won't.</p></sp>
+        <sp who="#madhav._dear_dear_it_would_have_been_my_saving_if_i_could_have_been_learned">
+          <speaker>Madhav</speaker>
+        <p>Dear, dear; it would have been my saving if I could have been learned.</p></sp>
+        <sp who="#amal._no_i_would_rather_go_about_and_see_everything_that_there_is">
+          <speaker>Amal</speaker>
+        <p>No, I would rather go about and see everything that there is.</p></sp>
+        <sp who="#madhav._listen_to_that_see_what_will_you_see_what_is_there_so_much_to_see">
+          <speaker>Madhav</speaker>
+        <p>Listen to that! See! What will you see, what is there so much to see?</p></sp>
+        <sp who="#amal._see_that_far-away_hill_from_our_windowi_often_long_to_go_beyond_those_hills_and_right_away">
+          <speaker>Amal</speaker>
+        <p>See that far-away hill from our window—I often long to go beyond those hills and right away.</p></sp>
+        <sp who="#madhav._oh_you_silly_as_if_theres_nothing_more_to_be_done_but_just_get_up_to_the_top_of_that_hill_and_away">
+          <speaker>Madhav</speaker>
+        <p>Oh, you silly! As if there's nothing more to be done but just get up to the top of that hill and away!</p></sp>
+        <sp who="#amal._uncle_do_you_think_it_is_meant_to_prevent_your_crossing_over_it_seems_to_me_because_the_earth_cant_speak_it_raises_its_hands_into_the_sky_and_beckons">
+          <speaker>Amal</speaker>
+        <p>Uncle, do you think it is meant to prevent your crossing over? It seems to me because the earth can't speak it raises its hands into the sky and beckons.</p></sp>
+        <sp who="#madhav._no_they_dont_have_time_for_that_sort_of_nonsense._they_are_not_crazy_like_you">
+          <speaker>Madhav</speaker>
+        <p>No, they don't have time for that sort of nonsense. They are not crazy like you.</p></sp>
+        <sp who="#amal._do_you_know_yesterday_i_met_someone_quite_as_crazy_as_i_am">
+          <speaker>Amal</speaker>
+        <p>Do you know, yesterday I met someone quite as crazy as I am.</p></sp>
+        <sp who="#madhav._gracious_me_really_how_so">
+          <speaker>Madhav</speaker>
+        <p>Gracious me, really, how so?</p></sp>
+        <sp who="#amal._he_had_a_bamboo_staff_on_his_shoulder_with_a_small_bundle_at_the_top_and_a_brass_pot_in_his_left_hand_and_an_old_pair_of_shoes_on_he_was_making_for_those_hills_straight_across_that_meadow_there._i_called_out_to_him_and_asked_where_are_you_going_he_answered_i_dont_know_anywhere_i_asked_again_why_are_you_going_he_said_im_going_out_to_seek_work._say_uncle_have_you_to_seek_work">
+          <speaker>Amal</speaker>
+        <p>He had a bamboo staff on his shoulder with a small bundle at the top, and a brass pot in his left hand, and an old pair of shoes on; he was making for those hills straight across that meadow there. I called out to him and asked, "Where are you going?" He answered, "I don't know, anywhere!" I asked again, "Why are you going?" He said, "I'm going out to seek work." Say, Uncle, have you to seek work?</p></sp>
+        <sp who="#amal._he_had_a_bamboo_staff_on_his_shoulder_with_a_small_bundle_at_the_top_and_a_brass_pot_in_his_left_hand_and_an_old_pair_of_shoes_on_he_was_making_for_those_hills_straight_across_that_meadow_there._i_called_out_to_him_and_asked_where_are_you_going_he_answered_i_dont_know_anywhere_i_asked_again_why_are_you_going_he_said_im_going_out_to_seek_work._say_uncle_have_you_to_seek_work_1">
+          <speaker>Amal</speaker>
+        <p>He had a bamboo staff on his shoulder with a small bundle at the top, and a brass pot in his left hand, and an old pair of shoes on; he was making for those hills straight across that meadow there. I called out to him and asked, “Where are you going?” He answered, “I don't know, anywhere!” I asked again, “Why are you going?” He said, “I'm going out to seek work.” Say, Uncle, have you to seek work?</p></sp>
+        <sp who="#madhav._of_course_i_have_to._theres_many_about_looking_for_jobs">
+          <speaker>Madhav</speaker>
+        <p>Of course I have to. There's many about looking for jobs.</p></sp>
+        <sp who="#amal._how_lovely_ill_go_about_like_them_too_finding_things_to_do">
+          <speaker>Amal</speaker>
+        <p>How lovely! I'll go about, like them too, finding things to do.</p></sp>
+        <sp who="#madhav._suppose_you_seek_and_dont_find._then">
+          <speaker>Madhav</speaker>
+        <p>Suppose you seek and don't find. Then—</p></sp>
+        <sp who="#amal._wouldnt_that_be_jolly_then_i_should_go_farther">
+          <speaker>Amal</speaker>
+        <p>Wouldn't that be jolly? Then I should go farther!</p></sp>
+        <sp who="#madhav._i_see_i_think_you_had_better_be_getting_well_first_then">
+          <speaker>Madhav</speaker>
+        <p>I see! I think you had better be getting well first; then—</p></sp>
+        <sp who="#amal._but_then_you_wont_want_me_to_be_learned_will_you_uncle">
+          <speaker>Amal</speaker>
+        <p>But then you won't want me to be learned, will you, Uncle?</p></sp>
+        <sp who="#madhav._what_would_you_rather_be_then">
+          <speaker>Madhav</speaker>
+        <p>What would you rather be then?</p></sp>
+        <sp who="#amal._i_cant_think_of_anything_just_now_but_ill_tell_you_later_on">
+          <speaker>Amal</speaker>
+        <p>I can't think of anything just now; but I'll tell you later on.</p></sp>
+        <sp who="#madhav._very_well._but_mind_you_you_arent_to_call_out_and_talk_to_strangers_again">
+          <speaker>Madhav</speaker>
+        <p>Very well. But mind you, you aren't to call out and talk to strangers again.</p></sp>
+        <sp who="#amal._but_i_love_to_talk_to_strangers">
+          <speaker>Amal</speaker>
+        <p>But I love to talk to strangers!</p></sp>
+        <sp who="#madhav._suppose_they_had_kidnapped_you">
+          <speaker>Madhav</speaker>
+        <p>Suppose they had kidnapped you?</p></sp>
+        <sp who="#amal._that_would_have_been_splendid_but_no_one_ever_takes_me_away._they_all_want_me_to_stay_in_here">
+          <speaker>Amal</speaker>
+        <p>That would have been splendid! But no one ever takes me away. They all want me to stay in here.</p></sp>
+        <sp who="#madhav._i_am_off_to_my_workbut_darling_you_wont_go_out_will_you">
+          <speaker>Madhav</speaker>
+        <p>I am off to my work—but, darling, you won't go out, will you?</p></sp>
+        <sp who="#amal._no_i_wont._but_uncle_youll_let_me_be_in_this_room_by_the_roadside">
+          <speaker>Amal</speaker>
+          <p>No, I won't. But, Uncle, you'll let me be in this room by the roadside.</p><stage>Exit Madhav</stage>
+        </sp>
+        <sp who="#dairyman._curds_curds_good_nice_curds">
+          <speaker>Dairyman</speaker>
+        <p>Curds, curds, good nice curds.</p></sp>
+        <sp who="#amal._curdseller_i_say_curdseller">
+          <speaker>Amal</speaker>
+        <p>Curdseller, I say, Curdseller.</p></sp>
+        <sp who="#dairyman._why_do_you_call_me_will_you_buy_some_curds">
+          <speaker>Dairyman</speaker>
+        <p>Why do you call me? Will you buy some curds?</p></sp>
+        <sp who="#amal._how_can_i_buy_i_have_no_money">
+          <speaker>Amal</speaker>
+        <p>How can I buy? I have no money.</p></sp>
+        <sp who="#dairyman._what_a_boy_why_call_out_then_ugh_what_a_waste_of_time">
+          <speaker>Dairyman</speaker>
+        <p>What a boy! Why call out then? Ugh! What a waste of time.</p></sp>
+        <sp who="#amal._i_would_go_with_you_if_i_could">
+          <speaker>Amal</speaker>
+        <p>I would go with you if I could.</p></sp>
+        <sp who="#dairyman._with_me">
+          <speaker>Dairyman</speaker>
+        <p>With me?</p></sp>
+        <sp who="#amal._yes_i_seem_to_feel_homesick_when_i_hear_you_call_from_far_down_the_road">
+          <speaker>Amal</speaker>
+        <p>Yes, I seem to feel homesick when I hear you call from far down the road.</p></sp>
+        <sp who="#dairyman._lowering_his_yoke-pole_whatever_are_you_doing_here_my_child">
+          <speaker>Dairyman</speaker>
+        <p><stage>Lowering his yoke-pole</stage> Whatever are you doing here, my child?</p></sp>
+        <sp who="#amal._the_doctor_says_im_not_to_be_out_so_i_sit_here_all_day_long">
+          <speaker>Amal</speaker>
+        <p>The doctor says I'm not to be out, so I sit here all day long.</p></sp>
+        <sp who="#dairyman._my_poor_child_whatever_has_happened_to_you">
+          <speaker>Dairyman</speaker>
+        <p>My poor child, whatever has happened to you?</p></sp>
+        <sp who="#amal._i_cant_tell._you_see_i_am_not_learned_so_i_dont_know_whats_the_matter_with_me._say_dairyman_where_do_you_come_from">
+          <speaker>Amal</speaker>
+        <p>I can't tell. You see I am not learned, so I don't know what's the matter with me. Say, Dairyman, where do you come from?</p></sp>
+        <sp who="#dairyman._from_our_village">
+          <speaker>Dairyman</speaker>
+        <p>From our village.</p></sp>
+        <sp who="#amal._your_village_is_it_very_far">
+          <speaker>Amal</speaker>
+        <p>Your village? Is it very far?</p></sp>
+        <sp who="#dairyman._our_village_lies_on_the_river_shamli_at_the_foot_of_the_panch-mura_hills">
+          <speaker>Dairyman</speaker>
+        <p>Our village lies on the river Shamli at the foot of the Panch-mura hills.</p></sp>
+        <sp who="#amal._panch-mura_hills_shamli_river_i_wonder._i_may_have_seen_your_village._i_cant_think_when_though">
+          <speaker>Amal</speaker>
+        <p>Panch-mura hills! Shamli river! I wonder. I may have seen your village. I can't think when though!</p></sp>
+        <sp who="#dairyman._have_you_seen_it_been_to_the_foot_of_those_hills">
+          <speaker>Dairyman</speaker>
+        <p>Have you seen it? Been to the foot of those hills?</p></sp>
+        <sp who="#amal._never._but_i_seem_to_remember_having_seen_it">
+          <speaker>Amal</speaker>
+        <p>Never. But I seem to remember having seen it.</p></sp>
+        <sp who="#dairyman._how_wonderful">
+          <speaker>Dairyman</speaker>
+        <p>How wonderful!</p></sp>
+        <sp who="#amal._and_your_women_with_red_sarees_fill_their_pitchers_from_the_river_and_carry_them_on_their_heads">
+          <speaker>Amal</speaker>
+        <p>And your women with red sarees fill their pitchers from the river and carry them on their heads.</p></sp>
+        <sp who="#dairyman._thats_right_child">
+          <speaker>Dairyman</speaker>
+        <p>That's right, child.</p></sp>
+        <sp who="#amal._and_the_first_day_doctor_lets_me_go_out_you_are_going_to_take_me_to_your_village">
+          <speaker>Amal</speaker>
+        <p>And the first day doctor lets me go out, you are going to take me to your village.</p></sp>
+        <sp who="#dairyman._i_will_my_child_with_pleasure">
+          <speaker>Dairyman</speaker>
+        <p>I will, my child, with pleasure.</p></sp>
+        <sp who="#amal._and_youll_teach_me_to_cry_curds_and_shoulder_the_yoke_like_you">
+          <speaker>Amal</speaker>
+        <p>And you'll teach me to cry curds and shoulder the yoke like you?</p></sp>
+        <sp who="#dairyman._dear_dear_why_should_you_sell_curds_no_you_will_read_big_books_and_be_learned">
+          <speaker>Dairyman</speaker>
+        <p>Dear, dear! Why should you sell curds? No, you will read big books and be learned.</p></sp>
+        <sp who="#amal._no_i_never_want_to_be_learned">
+          <speaker>Amal</speaker>
+        <p>No, I never want to be learned.</p></sp>
+        <sp who="#dairyman._will_you_have_some_curds">
+          <speaker>Dairyman</speaker>
+        <p>Will you have some curds?</p></sp>
+        <sp who="#amal._but_i_have_no_money">
+          <speaker>Amal</speaker>
+        <p>But I have no money.</p></sp>
+        <sp who="#dairyman._no_no_youll_make_me_happy_if_you_take_some._exit">
+          <speaker>Dairyman</speaker>
+        <p>No, no! You'll make me happy if you take some. <stage>Exit</stage></p></sp>
+        <sp who="#amal._curds_curds_good_nice_curdsfrom_the_dairy_village">
+          <speaker>Amal</speaker>
+        <p>Curds, curds, good nice curds—from the dairy village—</p></sp>
+        <sp who="#watchman._whats_all_this_row">
+          <speaker>Watchman</speaker>
+        <p>What's all this row?</p></sp>
+        <sp who="#amal._wont_you_sound_the_gong_watchman">
+          <speaker>Amal</speaker>
+        <p>Won't you sound the gong, Watchman?</p></sp>
+        <sp who="#watchman._time_has_not_yet_come">
+          <speaker>Watchman</speaker>
+        <p>Time has not yet come.</p></sp>
+        <sp who="#amal._some_say_time_has_not_yet_come_and_some_say_time_has_gone_by">
+          <speaker>Amal</speaker>
+        <p>Some say time has not yet come, and some say time has gone by!</p></sp>
+        <sp who="#watchman._one_day_the_doctor_himself_may_take_you_there_by_the_hand">
+          <speaker>Watchman</speaker>
+        <p>One day the doctor himself may take you there by the hand.</p></sp>
+        <sp who="#amal._when_will_this_great_doctor_come_for_me">
+          <speaker>Amal</speaker>
+        <p>When will this great doctor come for me?</p></sp>
+        <sp who="#watchman._one_greater_than_he_comes_and_lets_us_free">
+          <speaker>Watchman</speaker>
+        <p>One greater than he comes and lets us free.</p></sp>
+        <sp who="#amal._say_whats_going_on_there_in_that_big_house">
+          <speaker>Amal</speaker>
+        <p>Say, what's going on there in that big house?</p></sp>
+        <sp who="#watchman._thats_our_new_post_office">
+          <speaker>Watchman</speaker>
+        <p>That's our new Post Office.</p></sp>
+        <sp who="#amal._whose">
+          <speaker>Amal</speaker>
+        <p>Whose?</p></sp>
+        <sp who="#watchman._the_kings">
+          <speaker>Watchman</speaker>
+        <p>The King's.</p></sp>
+        <sp who="#amal._will_he_write_to_me">
+          <speaker>Amal</speaker>
+        <p>Will he write to me?</p></sp>
+        <sp who="#watchman._one_fine_day_there_may_be_a_letter_for_you">
+          <speaker>Watchman</speaker>
+        <p>One fine day there may be a letter for you.</p></sp>
+        <sp who="#amal._a_letter_for_me">
+          <speaker>Amal</speaker>
+        <p>A letter for me?</p></sp>
+        <sp who="#watchman._the_king_sends_tiny_notes_to_little_boys">
+          <speaker>Watchman</speaker>
+        <p>The King sends tiny notes to little boys.</p></sp>
+        <sp who="#amal._oh_how_lovely">
+          <speaker>Amal</speaker>
+          <p>Oh, how lovely!</p><stage>Exit Watchman</stage>
+        </sp>
+        <sp who="#headman._who_is_yelling_after_me">
+          <speaker>Headman</speaker>
+        <p>Who is yelling after me?</p></sp>
+        <sp who="#amal._will_you_tell_the_postman_its_amal_who_sits_by_the_window">
+          <speaker>Amal</speaker>
+        <p>Will you tell the postman it's Amal who sits by the window?</p></sp>
+        <sp who="#headman._the_king_indeed_ha_ha">
+          <speaker>Headman</speaker>
+        <p>The King indeed! Ha! ha!</p></sp>
+        <sp who="#amal._please_dont_mock_me">
+          <speaker>Amal</speaker>
+        <p>Please don't mock me.</p></sp>
+        <sp who="#headman._ill_tell_the_king_about_you._exit">
+          <speaker>Headman</speaker>
+        <p>I'll tell the King about you. <stage>Exit</stage></p></sp>
+        <sp who="#sudha._i_am_sudha">
+          <speaker>Sudha</speaker>
+        <p>I am Sudha.</p></sp>
+        <sp who="#amal._what_do_you_do">
+          <speaker>Amal</speaker>
+        <p>What do you do?</p></sp>
+        <sp who="#sudha._i_gather_flowers">
+          <speaker>Sudha</speaker>
+        <p>I gather flowers.</p></sp>
+        <sp who="#amal._i_wish_i_could_pick_flowers_for_you">
+          <speaker>Amal</speaker>
+        <p>I wish I could pick flowers for you.</p></sp>
+        <sp who="#sudha._be_good_and_sit_still._ill_come_back">
+          <speaker>Sudha</speaker>
+        <p>Be good and sit still. I'll come back.</p></sp>
+        <sp who="#amal._you_wont_forget_me">
+          <speaker>Amal</speaker>
+        <p>You won't forget me?</p></sp>
+        <sp who="#sudha._i_wont_forget_you._exit">
+          <speaker>Sudha</speaker>
+        <p>I won't forget you. <stage>Exit</stage></p></sp>
+        <sp who="#boys._were_off_to_play">
+          <speaker>Boys</speaker>
+        <p>We're off to play.</p></sp>
+        <sp who="#amal._dont_go._play_here">
+          <speaker>Amal</speaker>
+        <p>Don't go. Play here.</p></sp>
+        <sp who="#boys._how_jolly">
+          <speaker>Boys</speaker>
+        <p>How jolly!</p></sp>
+        <sp who="#amal._take_my_toys">
+          <speaker>Amal</speaker>
+        <p>Take my toys.</p></sp>
+        <sp who="#boys._you_wont_want_them_back">
+          <speaker>Boys</speaker>
+        <p>You won't want them back?</p></sp>
+        <sp who="#amal._no">
+          <speaker>Amal</speaker>
+        <p>No.</p></sp>
+        <sp who="#boys._well_come_again._exit">
+          <speaker>Boys</speaker>
+          <p>We'll come again. <stage>Exit</stage></p><p>CURTAIN</p>
+        </sp>
+      </div>
+      <div type="act">
+        <head>Act 2</head>
+        <stage>[Amal in Bed]</stage>
+        <sp who="#amal._cant_i_go_near_the_window_to-day_uncle">
+          <speaker>Amal</speaker>
+        <p>Can't I go near the window to-day, Uncle?</p></sp>
+        <sp who="#madhav._no_darling">
+          <speaker>Madhav</speaker>
+        <p>No, darling.</p></sp>
+        <sp who="#amal._i_fear_my_fakirll_pass">
+          <speaker>Amal</speaker>
+          <p>I fear my fakir'll pass.</p><stage>Gaffer enters disguised</stage>
+        </sp>
+        <sp who="#gaffer._i_am_the_fakir">
+          <speaker>Gaffer</speaker>
+        <p>I am the fakir.</p></sp>
+        <sp who="#amal._where_have_you_been">
+          <speaker>Amal</speaker>
+        <p>Where have you been?</p></sp>
+        <sp who="#gaffer._to_the_isle_of_parrots">
+          <speaker>Gaffer</speaker>
+        <p>To the Isle of Parrots.</p></sp>
+        <sp who="#amal._has_the_king_sent_me_a_letter">
+          <speaker>Amal</speaker>
+        <p>Has the King sent me a letter?</p></sp>
+        <sp who="#gaffer._it_is_on_the_way">
+          <speaker>Gaffer</speaker>
+        <p>It is on the way.</p></sp>
+        <sp who="#amal._i_can_see_the_postman_coming">
+          <speaker>Amal</speaker>
+        <p>I can see the postman coming.</p></sp>
+        <sp who="#doctor._how_do_you_feel_to-day">
+          <speaker>Doctor</speaker>
+        <p>How do you feel to-day?</p></sp>
+        <sp who="#amal._i_feel_awfully_well">
+          <speaker>Amal</speaker>
+        <p>I feel awfully well.</p></sp>
+        <sp who="#doctor._bad_sign">
+          <speaker>Doctor</speaker>
+        <p>Bad sign.</p></sp>
+        <sp who="#madhav._oh_god">
+          <speaker>Madhav</speaker>
+        <p>Oh God!</p></sp>
+        <sp who="#headman._heres_your_letter_from_the_king_shows_blank_paper">
+          <speaker>Headman</speaker>
+        <p>Here's your letter from the King! <stage>Shows blank paper</stage></p></sp>
+        <sp who="#amal._please_dont_mock_me">
+          <speaker>Amal</speaker>
+        <p>Please don't mock me.</p></sp>
+        <sp who="#gaffer._it_is_his_letter">
+          <speaker>Gaffer</speaker>
+        <p>It is his letter.</p></sp>
+        <sp who="#amal._i_cannot_see_it">
+          <speaker>Amal</speaker>
+          <p>I cannot see it.</p><stage>Trumpet sound</stage>
+        </sp>
+        <sp who="#herald._our_sovereign_king_comes_to-night">
+          <speaker>Herald</speaker>
+        <p>Our Sovereign King comes to-night!</p></sp>
+        <sp who="#amal._on_the_second_watch">
+          <speaker>Amal</speaker>
+        <p>On the second watch?</p></sp>
+        <sp who="#herald._yes">
+          <speaker>Herald</speaker>
+        <p>Yes.</p></sp>
+        <sp who="#royalphysician._open_all_doors_and_windows">
+          <speaker>RoyalPhysician</speaker>
+        <p>Open all doors and windows!</p></sp>
+        <sp who="#amal._i_feel_very_well">
+          <speaker>Amal</speaker>
+        <p>I feel very well.</p></sp>
+        <sp who="#madhav._ask_a_gift_from_the_king">
+          <speaker>Madhav</speaker>
+        <p>Ask a gift from the King.</p></sp>
+        <sp who="#amal._i_shall_ask_him_to_make_me_his_postman">
+          <speaker>Amal</speaker>
+        <p>I shall ask him to make me his postman.</p></sp>
+        <sp who="#sudha._amal">
+          <speaker>Sudha</speaker>
+        <p>Amal!</p></sp>
+        <sp who="#physician._hes_asleep">
+          <speaker>Physician</speaker>
+        <p>He's asleep.</p></sp>
+        <sp who="#sudha._tell_him_sudha_has_not_forgotten_him">
+          <speaker>Sudha</speaker>
+        <p>Tell him Sudha has not forgotten him.</p></sp>
+        <stage>The end</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
