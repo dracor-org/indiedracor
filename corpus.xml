@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>New Drama Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DraCor</publisher>
+        <idno type="URI" xml:base="https://dracor.org/">new</idno>
+        <idno type="repo">https://github.com/dracor-org/newdracor</idno>
+        <availability>
+          <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
+            CC0
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          Describe your corpus in a few sentences.
+        </p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="yyyy-mm-dd" status="proposed"/>
+    </revisionDesc>
+  </teiHeader>
+</teiCorpus>
