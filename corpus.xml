@@ -3,12 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>New Drama Corpus</title>
+        <title>Indian English Drama Corpus</title>
       </titleStmt>
       <publicationStmt>
         <publisher>DraCor</publisher>
-        <idno type="URI" xml:base="https://dracor.org/">new</idno>
-        <idno type="repo">https://github.com/dracor-org/newdracor</idno>
+        <idno type="URI" xml:base="https://dracor.org/">indie</idno>
+        <idno type="repo">https://github.com/dracor-org/indiedracor</idno>
         <availability>
           <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
             CC0
@@ -24,7 +24,7 @@
       </projectDesc>
     </encodingDesc>
     <revisionDesc>
-      <change when="yyyy-mm-dd" status="proposed"/>
+      <change when="2026-02-13" status="proposed"/>
     </revisionDesc>
   </teiHeader>
 </teiCorpus>
