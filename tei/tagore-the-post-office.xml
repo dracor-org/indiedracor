@@ -526,11 +526,6 @@
         </listPerson>
       </particDesc>
     </profileDesc>
-    <revisionDesc>
-      <listChange>
-        <change when="2025-12-25">DESCRIBE CHANGE</change>
-      </listChange>
-    </revisionDesc>
   </teiHeader>
   <standOff>
     <listEvent>
