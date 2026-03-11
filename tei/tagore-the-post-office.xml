@@ -111,7 +111,7 @@
         <sp who="#doctor">
           <speaker>Physician</speaker>
         <p>If there's life in his fate, then he will live long. But what the medical scriptures say, it seems—</p></sp>
-        <sp who="#madhav"/><speaker>Madhav</speaker>
+       <sp who="#madhav"><speaker>Madhav</speaker>
         <p>Great heavens, what?</p></div>
         <sp who="#doctor">
           <speaker>Physician</speaker>
