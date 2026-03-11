@@ -135,9 +135,10 @@
         <sp who="#doctor">
           <speaker>Physician</speaker>
         <p>I have already mentioned, on no account must he be let out of doors.</p></sp>
+       
         <sp who="#madhav"/>
           <speaker>Madhav</speaker>
         <p>Poor child, it is very hard to keep him indoors all day long.</p></sp>
-     <div type="act">
+      </div>
      </body>   
   </TEI>
