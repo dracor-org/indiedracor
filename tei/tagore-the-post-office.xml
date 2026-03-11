@@ -130,12 +130,14 @@
         <p><stage>Taking snuff</stage> The patient needs the most scrupulous care.</p></sp>
         <sp who="#madhav">
         <speaker>Madhav</speaker>
-        <p>That's true; but tell me how.</p>
-        <sp who="#madhav">
+        <p>That's true; but tell me how.</p> </sp>
+       
         <sp who="#doctor">
           <speaker>Physician</speaker>
         <p>I have already mentioned, on no account must he be let out of doors.</p></sp>
-        <sp who="#madhav"/><speaker>Madhav</speaker>
-        <p>Poor child, it is very hard to keep him indoors all day long.</p></TEI>
+        <sp who="#madhav"/>
+          <speaker>Madhav</speaker>
+        <p>Poor child, it is very hard to keep him indoors all day long.</p></sp>
      <div type="act">
      </body>   
+  </TEI>
