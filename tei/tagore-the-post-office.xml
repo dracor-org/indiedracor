@@ -44,7 +44,7 @@
   <person xml:id="sudha" sex="FEMALE">
     <persName>Sudha</persName>
   </person>
-  <person who="#doctor" sex="MALE">
+  <person xml:id="doctor" sex="MALE">
     <persName>Doctor</persName>
   </person>
   <person xml:id="dairyman" sex="MALE">
