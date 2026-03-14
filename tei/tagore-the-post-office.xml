@@ -26,16 +26,17 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Project Gutenberg</name>
-          <idno type="URL">https://www.gutenberg.org/files/6523/6523-h/6523-h.htm</idno>
+          <ref target="https://www.gutenberg.org/files/6523/6523-h/6523-h.htm">Project Gutenberg</ref>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <author>Rabindranath Tagore</author>: <title>The Post Office</title>. Translated by
-              <editor role="translator">Devabrata Mukherjee</editor>. <pubPlace>New York</pubPlace>:
-              <publisher>The Macmillan Company</publisher>
-            <date>1914</date>.</bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Rabindranath Tagore</author>:
+          <title>The Post Office</title>.
+          Translated by <editor role="translator">Devabrata Mukherjee</editor>.
+          <pubPlace>New York</pubPlace>: <publisher>The Macmillan Company</publisher>
+          <date>1914</date>.
         </bibl>
       </sourceDesc>
     </fileDesc>
