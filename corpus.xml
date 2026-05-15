@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,13 @@
     <encodingDesc>
       <projectDesc>
         <p>
-          Describe your corpus in a few sentences.
+          Edited by Simran Bhimjyani and Shanmugapriya T. Features Indian plays written in or translated
+          into English, spanning the 1830s to the present. Public-domain plays
+          are released here under CC0; in-copyright plays are encoded to the
+          same DraCor standard but maintained in a private DraCor instance.
+          For a corpus description and full credits please see the
+          <ref target="https://github.com/dracor-org/indiedracor">README on
+          GitHub</ref>.
         </p>
       </projectDesc>
     </encodingDesc>
