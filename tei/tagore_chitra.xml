@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ind000002" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="indie000002" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -79,21 +79,15 @@
     </revisionDesc>
   </teiHeader>
   <standOff>
-    <listEvent>
-      <event type="composition" when="1892">
-        <desc>original Bengali version "Chitrangada" written by Tagore (per the author's own preface to the 1913 English edition, which describes the play as written "about twenty-five years ago")</desc>
-      </event>
-      <event type="print" when="1913">
-        <desc>first English publication, translated by the author, issued by The India Society of London</desc>
-      </event>
-      <event type="print" when="1914-02">
-        <desc>first North American edition published by The Macmillan Company, New York; this is the source text underlying the Project Gutenberg digitisation</desc>
-      </event>
-      <event type="adaptation" when="1936">
-        <desc>Tagore adapted the play into the Bengali dance-drama (nritya natya) "Chitrangada"</desc>
-      </event>
-    </listEvent>
-  </standOff>
+       <listEvent>
+         <event type="written" when="1892">
+           <desc>original Bengali version "Chitrangada" composed by Tagore (per the author's own preface to the 1913 English edition, which describes the play as written "about twenty-five years ago")</desc>
+         </event>
+         <event type="print" when="1913">
+           <desc>first English publication, translated by the author, issued by The India Society of London. A first North American edition followed from The Macmillan Company, New York, in February 1914; the latter is the source text underlying the Project Gutenberg digitisation. Tagore later adapted the play into the Bengali dance-drama (nritya natya) "Chitrangada" in 1936.</desc>
+         </event>
+       </listEvent>
+     </standOff>
   <text>
     <front>
       <castList>
