@@ -3,11 +3,11 @@ name: Validate TEI documents
 on:
   workflow_dispatch:
   pull_request:
-    branches: [main]
+    branches: [ main ]
     paths:
       - "tei/*.xml"
   push:
-    branches: [main]
+    branches: [ main ]
     paths:
       - "tei/*.xml"
 
@@ -47,6 +47,7 @@ jobs:
           files: |
             ${{ steps.changed-tei-files.outputs.all_changed_files }}
             ${{ steps.all-tei-files.outputs.files }}
+          warn-only: yes
 
       - name: Validate against DraCor schema
         uses: dracor-org/dracor-validate-action@4d668e6429efcbe8d8a89cb60aaf8de9f0ac0ef8 # v2.4.0
@@ -55,4 +56,3 @@ jobs:
             ${{ steps.changed-tei-files.outputs.all_changed_files }}
             ${{ steps.all-tei-files.outputs.files }}
           schema: dracor
-          warn-only: yes
