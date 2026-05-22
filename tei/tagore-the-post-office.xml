@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="indie000001" xml:lang="en">
   <teiHeader>
@@ -38,6 +38,14 @@
           <pubPlace>New York</pubPlace>: <publisher>The Macmillan Company</publisher>
           <date>1914</date>.
         </bibl>
+        <listEvent>
+          <event type="print" when="1912">
+            <desc>original Bengali version</desc>
+          </event>
+          <event type="premiere" when="1913-05-17">
+            <desc>performed in English by the Abbey Theatre in Dublin</desc>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -83,16 +91,7 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1912">
-        <desc>original Bengali version</desc>
-      </event>
-      <event type="premiere" when="1913-05-17">
-        <desc>performed in English by the Abbey Theatre in Dublin</desc>
-      </event>
-    </listEvent>
-  </standOff>
+  
   <text>
     <front>
       <titlePage>
