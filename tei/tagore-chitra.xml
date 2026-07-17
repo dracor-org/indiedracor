@@ -29,10 +29,8 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
-        <idno>ind</idno>
         <availability>
-          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark
-            1.0</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -70,26 +68,20 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="madana" sex="MALE">
-            <persName>Madana <addName type="alias">Eros</addName></persName>
-            <note>god of love</note>
-          </person>
-          <person xml:id="vasanta" sex="MALE">
-            <persName>Vasanta <addName type="alias">Lycoris</addName></persName>
-            <note>god; King of the Seasons; Eternal Youth</note>
-          </person>
           <person xml:id="chitra" sex="FEMALE">
             <persName>Chitra</persName>
-            <note>daughter of the King of Manipur</note>
+          </person>
+          <person xml:id="madana" sex="MALE">
+            <persName>Madana (Eros)</persName>
+          </person>
+          <person xml:id="vasanta" sex="MALE">
+            <persName>Vasanta (Lycoris)</persName>
           </person>
           <person xml:id="arjuna" sex="MALE">
             <persName>Arjuna</persName>
-            <note>a prince of the house of the Kurus; a Kshatriya living as a hermit in the forest
-              during the action</note>
           </person>
           <personGrp xml:id="villagers" sex="UNKNOWN">
             <name>Villagers</name>
-            <note>from an outlying district of Manipur</note>
           </personGrp>
           <listRelation type="personal">
             <relation name="lover_of" mutual="#chitra #arjuna"/>
@@ -110,42 +102,77 @@
   </teiHeader>
   <text>
     <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Chitra</titlePart>
+          <titlePart type="sub">A Play in One Act</titlePart>
+        </docTitle>
+        <byline>By <docAuthor>Rabindranath Tagore</docAuthor></byline>
+        <byline>[Translated by the author from the original Bengali]</byline>
+      </titlePage>
+      <docImprint>
+        <pubPlace>New York</pubPlace>
+        <publisher>The Macmillan Company</publisher>
+        <date>1926</date>
+      </docImprint>
+      <div type="preface">
+        <head>Preface</head>
+        <p>This lyrical drama was written about twenty-five years ago. It is based on the following
+          story from the Mahabharata.</p>
+        <p>In the course of his wanderings, in fulfilment of a vow of penance, Arjuna came to
+          Manipur. There he saw Chitrangada, the beautiful daughter of Chitravahana, the king of the
+          country. Smitten with her charms, he asked the king for the hand of his daughter in
+          marriage. Chitravahana asked him who he was, and learning that he was Arjuna the Pandara,
+          told him that Prabhanjana, one of his ancestors in the kingly line of Manipur, had long
+          been childless. In order to obtain an heir, he performed severe penances. Pleased with
+          these austerities, the god Shiva gave him this boon, that he and his successors should
+          each have one child. It so happened that the promised child had invariably been a son. He,
+          Chitravahana, was the first to have only a daughter Chitrangada to perpetuate the race. He
+          had, therefore, always treated her as a son and had made her his heir.</p>
+        <p>Continuing, the king said:</p>
+        <p>"The one son that will be born to her must be the perpetuator of my race. That son will
+          be the price that I shall demand for this marriage. You can take her, if you like, on this
+          condition."</p>
+        <p>Arjuna promised and took Chitrangada to wife, and lived in her father's capital for three
+          years. When a son was born to them, he embraced her with affection, and taking leave of
+          her and her father, set out again on his travels.</p>
+      </div>
       <castList>
         <head>The Characters</head>
         <castGroup>
           <head>Gods</head>
           <castItem>
             <role corresp="#madana">Madana</role>
-            <roleDesc>Eros</roleDesc>
+            <roleDesc>(Eros).</roleDesc>
           </castItem>
           <castItem>
             <role corresp="#vasanta">Vasanta</role>
-            <roleDesc>Lycoris</roleDesc>
+            <roleDesc>(Lycoris).</roleDesc>
           </castItem>
         </castGroup>
         <castGroup>
           <head>Mortals</head>
           <castItem>
-            <role corresp="#chitra">Chitra</role>
-            <roleDesc>daughter of the King of Manipur</roleDesc>
+            <role corresp="#chitra">Chitra,</role>
+            <roleDesc>daughter of the King of Manipur.</roleDesc>
           </castItem>
           <castItem>
-            <role corresp="#arjuna">Arjuna</role>
-            <roleDesc>a prince of the house of the Kurus; he is of the Kshatriya, or warrior caste,
-              and during the action is living as a hermit retired in the forest</roleDesc>
+            <role corresp="#arjuna">Arjuna,</role>
+            <roleDesc>a prince of the house of the Kurus; he is of the Kshatriya or "warrior caste,"
+              and during the action is living as a hermit retired in the forest.</roleDesc>
           </castItem>
           <castItem>
             <role corresp="#villagers">Villagers</role>
-            <roleDesc>from an outlying district of Manipur</roleDesc>
+            <roleDesc>from an outlying district of Manipur.</roleDesc>
           </castItem>
         </castGroup>
       </castList>
-      <div type="performance">
-        <p>The dramatic poem <title>Chitra</title> has been performed in India without scenery—the
-          actors being surrounded by the audience. Proposals for its production here having been
-          made to him, he went through this translation and provided stage directions, but wished
-          these omitted if it were printed as a book.</p>
-      </div>
+      <performance>
+        <p>Note.—The dramatic poem "Chitra" has been performed in India without scenery—the actors
+          being surrounded by the audience. Proposals for its production here having been made to
+          him, he went through this translation and provided stage directions, but wished these
+          omitted if it were printed as a book.</p>
+      </performance>
     </front>
     <body>
       <div type="scene" n="1">
@@ -312,10 +339,7 @@
             slowly, walked away like a beauteous evening fading into the night. To me the supreme
             fulfilment of desire seemed to have been revealed in a flash and then to have vanished.
             . . . But who is it that pushes the door?</p>
-        </sp>
-        <stage type="entrance">Enter Chitra, dressed as a woman.</stage>
-        <sp who="#arjuna">
-          <speaker>Arjuna</speaker>
+          <stage>Enter Chitra, dressed as a woman.</stage>
           <p>Ah! it is she. Quiet, my heart! . . . Fear me not, lady! I am a Kshatriya.</p>
         </sp>
         <sp who="#chitra">
@@ -444,10 +468,7 @@
             of the hungry spirit within; to feel his heart struggling to break its bounds urging its
             passionate cry through the entire body—and then to send him away like a beggar—no,
             impossible.</p>
-        </sp>
-        <stage type="entrance">Enter Madana and Vasanta.</stage>
-        <sp who="#chitra">
-          <speaker>Chitra</speaker>
+          <stage>Enter Madana and Vasanta.</stage>
           <p>Ah, god of love, what fearful flame is this with which thou hast enveloped me! I burn,
             and I burn whatever I touch.</p>
         </sp>
@@ -509,7 +530,7 @@
         </sp>
         <sp who="#chitra">
           <speaker>Chitra</speaker>
-          <stage type="delivery">bitterly</stage>
+          <stage>[bitterly]</stage>
           <p>Who drank it? The rarest completion of life's desire, the first union of love was
             proffered to me, but was wrested from my grasp? This borrowed beauty, this falsehood
             that enwraps me, will slip from me taking with it the only monument of that sweet union,
@@ -630,7 +651,7 @@
             have not the heart to throw it away. My Kshatriya's right arm, idly occupied in holding
             it, forgets its duties.</p>
         </sp>
-        <stage type="entrance">Enter Chitra.</stage>
+        <stage>Enter Chitra.</stage>
         <sp who="#chitra">
           <speaker>Chitra</speaker>
           <p>Tell me your thoughts, sir!</p>
@@ -764,8 +785,8 @@
           <speaker>Villagers</speaker>
           <p>Yes, she is our father and mother in one.</p>
         </sp>
-        <stage type="exit">Exeunt.</stage>
-        <stage type="entrance">Enter Chitra.</stage>
+        <stage>[Exeunt.</stage>
+        <stage>Enter Chitra.</stage>
         <sp who="#chitra">
           <speaker>Chitra</speaker>
           <p>Why are you sitting all alone?</p>
@@ -779,7 +800,13 @@
           <speaker>Chitra</speaker>
           <p>Ah, but she is not beautiful. She has no such lovely eyes as mine, dark as death. She
             can pierce any target she will, but not our hero's heart.</p>
+        </sp>
+        <sp who="#arjuna">
+          <speaker>Arjuna</speaker>
           <p>They say that in valour she is a man, and a woman in tenderness.</p>
+        </sp>
+        <sp who="#chitra">
+          <speaker>Chitra</speaker>
           <p>That, indeed, is her greatest misfortune. When a woman is merely a woman; when she
             winds herself round and round men's hearts with her smiles and sobs and services and
             caressing endearments; then she is happy. Of what use to her are learning and great
@@ -895,17 +922,16 @@
       </div>
       <div type="scene" n="9">
         <head>Scene IX</head>
-        <stage type="setting">Chitra and Arjuna.</stage>
+        <stage>Chitra and Arjuna</stage>
         <sp who="#chitra">
           <speaker>Chitra</speaker>
-          <stage type="modifier">cloaked</stage>
+          <stage>[cloaked]</stage>
           <p>My lord, has the cup been drained to the last drop? Is this, indeed, the end? No, when
             all is done something still remains, and that is my last sacrifice at your feet.</p>
           <p>I brought from the garden of heaven flowers of incomparable beauty with which to
             worship you, god of my heart. If the rites are over, if the flowers have faded, let me
-            throw them out of the temple.</p>
-          <stage type="business">Unveiling in her original male attire.</stage>
-          <p>Now, look at your worshipper with gracious eyes.</p>
+            throw them out of the temple <stage>[unveiling in her original male attire]</stage>.
+            Now, look at your worshipper with gracious eyes.</p>
           <p>I am not beautifully perfect as the flowers with which I worshipped. I have many flaws
             and blemishes. I am a traveller in the great world-path, my garments are dirty, and my
             feet are bleeding with thorns. Where should I achieve flower-beauty, the unsullied
