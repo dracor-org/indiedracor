@@ -13,9 +13,17 @@
           <idno type="wikidata">Q7241</idno>
         </author>
         <editor role="translator">
-          <persName>Devabrata Mukherjee</persName>
+          <persName>
+            <forename>Devabrata</forename>
+            <surname>Mukherjee</surname>
+          </persName>
           <idno type="wikidata">Q99455015</idno>
         </editor>
+        <respStmt>
+          <resp>Converted to TEI by</resp>
+          <persName ref="https://orcid.org/0009-0003-2975-2206">Simran Bhimjyani</persName>
+          <persName ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -26,17 +34,19 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <ref target="https://www.gutenberg.org/files/6523/6523-h/6523-h.htm">Project Gutenberg</ref>
+          <ref target="https://www.gutenberg.org/files/6523/6523-h/6523-h.htm">Project
+            Gutenberg</ref>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
         </bibl>
         <bibl type="originalSource">
-          <author>Rabindranath Tagore</author>:
-          <title>The Post Office</title>.
-          Translated by <editor role="translator">Devabrata Mukherjee</editor>.
-          <pubPlace>New York</pubPlace>: <publisher>The Macmillan Company</publisher>
-          <date>1914</date>.
+          <author>Rabindranath Tagore</author>: <title>The Post Office</title>. Translated by
+            <editor role="translator">Devabrata Mukherjee</editor>. <pubPlace>New York</pubPlace>:
+            <publisher>The Macmillan Company</publisher>
+          <date>1914</date>.</bibl>
+        <bibl type="wikidata">
+          <idno>Q7757862</idno>
         </bibl>
         <listEvent>
           <event type="print" when="1912">
@@ -91,7 +101,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  
   <text>
     <front>
       <titlePage>
